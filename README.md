@@ -8,3 +8,4 @@ Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Chiku Kalsium, [Chiku](https://github.com/andoriani).
+* Elmer [Github](https://github.com/Elmer).
